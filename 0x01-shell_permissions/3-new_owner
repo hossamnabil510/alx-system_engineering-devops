@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo betty hello
+sudo betty 
+su hello
